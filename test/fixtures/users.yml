@@ -4,3 +4,10 @@ jason:
   email: "jason@teamtreehouse.com"
   profile_name: "Jason"
  
+
+jim:
+  first_name: "Jim"
+  last_name: "Hoskins"
+  email: "jim@teamtreehouse.com"
+  profile_name: "jhoskins"
+
